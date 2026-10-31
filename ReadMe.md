@@ -1,4 +1,4 @@
-🪦 Moonlit Ghost Runner 👻
+  Moonlit Ghost Runner 
 
 A Halloween-themed runner game built with p5.js, inspired by the Chrome Dino Game!
 
@@ -18,9 +18,9 @@ Features
 
 Spooky Twist on a Classic: Nostalgic Dino-style gameplay reimagined with the Halloween theme.
 
-Responsive Jumping Mechanics: Easy controls using the keyboard.
+Responsive Jumping Mechanics: Easy keyboard controls.
 
-Score Tracker: Watch your score increase in real time the longer you stay alive.
+Score Tracker: Watch your score increase in real time as long as you stay alive.
 
 Built With: p5.js - A JavaScript library for creative coding.
 
@@ -32,6 +32,4 @@ Clone or download this repository.
 
 Open index.html in your web browser.
 
-Or, copy the code into the p5.js Web Editor and press Play (▶).
-
-Happy Haunting! 🎃
+Or, copy the code into the p5.js Web Editor and press Play.
