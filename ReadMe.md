@@ -1,33 +1,33 @@
 🪦 Moonlit Ghost Runner 👻
 
-A Halloween-themed side-scrolling runner game built with p5.js, inspired by the classic Chrome Dino Game!
+A Halloween-themed runner game built with p5.js, inspired by the Chrome Dino Game!
 
-Help the little ghost leap over cursed gravestones, survive as long as possible, and chase the ultimate high score!
+Help the little ghost leap over gravestones, survive as long as possible, and chase the ultimate high score!
 
-🎮 How to Play
+How to Play:
 
-Controls: Press the Up Arrow Key (⬆️) to make your ghost jump.
+Controls: Press the Up Arrow Key or space bar on your keyboard to make your ghost jump.
 
-Objective: Jump over incoming Graves 🪦 to keep running and build up your score.
+Objective: Jump over incoming Graves to keep running and build up your score.
 
-Avoid Collisions: If you touch a grave, the game ends immediately!
+Avoid Collisions: If you touch a grave, the game ends!
 
-Challenge: Speed up as time passes to see how high of a score you can achieve.
+Challenge: Speed up as time passes to see how high a score you can achieve.
 
-🚀 Features
+Features
 
-Spooky Twist on a Classic: Nostalgic Dino-style gameplay re-imagined with a spooky Halloween theme.
+Spooky Twist on a Classic: Nostalgic Dino-style gameplay reimagined with the Halloween theme.
 
-Responsive Jumping Mechanics: Easy-to-learn controls using the keyboard.
+Responsive Jumping Mechanics: Easy controls using the keyboard.
 
-Score Tracker: Watch your score increase in real-time the longer you stay alive.
+Score Tracker: Watch your score increase in real time the longer you stay alive.
 
-🛠️ Built With
+Built With: p5.js - A JavaScript library for creative coding.
 
-p5.js - A JavaScript library for creative coding.
+How to Run:
 
-📦 How to Run
-
+Use the live link on GitHub Pages to play the game. 
+OR 
 Clone or download this repository.
 
 Open index.html in your web browser.
